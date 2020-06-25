@@ -1,0 +1,180 @@
+/* Your card CSS file */
+/*h2{
+  color: #204051;
+  font-family: 'Bitter', serif;
+  font-size: 15px;
+  line-height: 10px;
+  font-style: line-height;*/
+
+.banner{
+  font-family: 'Open Sans', sans-serif;
+  background-size: cover;
+  font-size: 15px;
+  line-height: 30px ;
+  background-position: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.banner h1{
+  font-family: 'Bitter', serif;
+}
+
+.container{
+  margin: 50px;
+
+}
+
+.cards{
+  display: flex;
+  align-items: center;
+
+}
+
+.card{
+margin: 0 auto;
+width: 200px;
+border-radius: 5px;
+box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+overflow: hidden;
+color: #204051;
+font-family: 'Bitter', serif;
+font-style: line-height;
+}
+.card p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card img{
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card:hover{
+  box-shadow: 1px 1px 5px rgba(0,0,100,0.6);
+}
+
+.footer{
+  height: 200px;
+  background-color: grey;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.footer p{
+  margin: 0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 30px;
+}
+
+.list-inline{
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.title{
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*.card{
+margin: 0 auto;
+width: 50%;
+border-radius: 5px;
+box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+.card-category{
+  background-size: cover;
+  background-position: center;
+  height: 180px;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+.card-product{
+  margin: 0 auto;
+  width: 50%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  overflow: hidden;
+}
+
+.card-product img{
+  object-fit: cover;
+  object-position: center;
+  height: 100px;
+  width: 80px;
+  display: inline;
+  margin-right: 20px;
+}
+
+.card-trip{
+  height: 250;
+}
+
+.card-trip .picture{
+  object-fit: cover;
+  object-position: center;
+  height: 180px;
+  width: 100%;
+  display: inline;
+  margin-right: 20px;
+  margin: 0;
+}
+
+.inner-card{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+.inner-card .avatar{
+  position: absolute;
+  top: -25px;
+  right: 10px;
+}
+
+.inner-card h4, .inner-card p{
+  margin: 0px 5px;
+}*/
+
+

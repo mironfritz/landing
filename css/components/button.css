@@ -1,0 +1,40 @@
+/* Your button CSS file */
+.btn{
+  padding: 16px 32px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.btn-transparent{
+  color: white;
+  border: 2px solid white;
+  opacity: 0.6;
+  border-radius: 28px;
+}
+
+.btn-transparent:hover{
+  opacity: 1;
+}
+
+.btn-treehouse{
+  background-color: #3AC162;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.btn-treehouse:hover{
+  opacity: 1;
+}
+
+.btn-gradient{
+  background: linear-gradient(90deg, blue,  violet);
+  box-shadow: 2px 2px 5px grey
+}
+
+.btn-gradient:hover{
+  background: linear-gradient(90deg, violet, blue);
+  box-shadow: 2px 2px 8px grey
+}
